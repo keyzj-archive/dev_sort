@@ -15,3 +15,8 @@ ver2.0
 Main: Fixed sorting algorithm, because older one has had a bug, which led to a wrong results.
 Other: I've divided code into headers files with a little templates. Temporary deleted OpenMP support.
 TODO: Add OpenMP support and retractor sorting algorithm to templates.
+
+ver2.1
+Main: Added templates support and minimum UI.
+Other: Fixed n and m checks.
+TODO: Add OpenMP support.
